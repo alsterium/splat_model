@@ -4,3 +4,4 @@
 [GIXXER125](https://playcanvas.com/viewer/?load=https://alsterium.github.io/splat_model/gixxer.compressed.ply)
 [TypeR](https://playcanvas.com/viewer/?load=https://alsterium.github.io/splat_model/typer.compressed.ply)
 [Bus](https://playcanvas.com/viewer/?load=https://alsterium.github.io/splat_model/bus.compressed.ply)
+[RZ34](https://playcanvas.com/viewer/?load=https://alsterium.github.io/splat_model/rz34.compressed.ply)
